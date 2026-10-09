@@ -1,1 +1,2 @@
 # Aula-de-pa_09-10-2026
+Ele formata arquivos .csv, algo importante de se falar é que o tipo de arquivo que é baixado e exportado é o .csv, esse site só aceita arquivos .csv. Esse site também pode listar os dados inseridos na tabela, assim como apagar dados de um arquivo que foi colocado na memória do site.
